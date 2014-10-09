@@ -1,3 +1,7 @@
 Respuesta 20: 
 
 La diferencia entre el interprete de Ruby y el interprete interactivo 'irb' es que con el primero se muestra directamente la salida de nuestro código y con el irb se va mostrando linea por linea el código y las salidas de este.
+
+Respuesta 27:
+
+Pry es un interprete similar a irb que añade caracteristicas como resaltar en colores la sintaxis, se puede invocar dinamicamente dentro de un script, o tambien para visualizar codigo y documentacion.
